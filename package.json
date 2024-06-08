@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/abir2907/modules/issues"
   },
-  "homepage": "https://github.com/abir2907/modules#readme"
+  "homepage": "https://github.com/abir2907/modules#readme",
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
 }
